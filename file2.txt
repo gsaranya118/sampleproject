@@ -1,2 +1,3 @@
 Learning GIT commands
 adding content here
+Learning Pull command now
